@@ -5,7 +5,7 @@
 
 **开源独立原创音乐**
 
-**Open Source Independent Original Misic**
+**Open Source Independent Original Music**
 ***
 
 * Open Source 开源
@@ -23,7 +23,7 @@
 > 原创是相对于音乐的主观和客观的组合，可以借鉴某些音乐进行了再创作，毕竟学习和传承是必经之路；
 
 > 创新是音乐最大的创作动力，同时也能让你变得独特。
-* Misic 音乐
+* Music 音乐
 
 > 音乐是不分语言，不分色彩，不分好坏的艺术，它是人类的朋友，同时也是一种力量；
 
