@@ -1,8 +1,24 @@
-# OSIOM :boom:
-### Welcome to the OSIOM !
+<div>
+  <h1 align="center"> :boom: OSIOM :boom: </h1>
+  <div align="center">
+    <a href="https://github.com/OSIOMs/OSIOM-Test/edit/OSIOMusic/README.md#welcome-to-the-osiom-" target="_self">
+      <img src="https://img.shields.io/badge/Music-Share-brightgreen?style=flat&logo=Canonical" /></a> 
+    <a href="https://github.com/OSIOMs/OSIOM-Test/edit/OSIOMusic/README.md#open-source-%E5%BC%80%E6%BA%90-dart" target="_self">
+      <img src="https://img.shields.io/badge/Music-Open Source-blue?style=flat&logo=Authy" /></a> 
+    <a href="https://github.com/OSIOMs/OSIOM-Test/edit/OSIOMusic/README.md#independent-%E7%8B%AC%E7%AB%8B-dart" target="_self">
+      <img src="https://img.shields.io/badge/Music-Independent-brightgreen?style=flat&logo=AMP" /></a> 
+    <a href="https://github.com/OSIOMs/OSIOM-Test/edit/OSIOMusic/README.md#original-%E5%8E%9F%E5%88%9B-dart" target="_self">
+      <img src="https://img.shields.io/badge/Music-Original-blue?style=flat&logo=Coursera" /></a> 
+    <a href="https://github.com/OSIOMs/OSIOM-Test/edit/OSIOMusic/README.md#-how-to-join-osiom--two_hearts" target="_self">
+      <img src="https://img.shields.io/badge/Music-Lover-brightgreen?style=flat&logo=Funimation" /></a> 
+  </div>
+</div>
 
 ---
-## >>> What is OSIOM ? :two_hearts:
+### Welcome to the OSIOM ! &nbsp; -- &nbsp; `I am one of OSIOM`
+
+---
+## >>> What Is OSIOM ? :two_hearts:
 
 ### 开源 · 独立 · 原创 · 音乐 :fire: :musical_keyboard: :fire:
 
@@ -34,7 +50,7 @@
 > 一位不懂音乐的人，却十分喜欢音乐，并创作了属于自己的非专业作词和作曲。但是音乐制作包括六大主要步骤：**`作词`** 、**`作曲`** 、**`编曲`** 、**`录音`** 、**`混音`** 和 **`母带`** 。于是他便利用闲余时间开始学习，并走上音乐创作之路。他不是专业的，但他是认真的；它不是完美的，但它是开源的。让音乐像应用软件一样，不断地优化更新和迭代版本。**最后一句肺腑之言：喜欢音乐就分享它的一切 ！！！**
 
 ---
-## >>> How to join OSIOM ? :two_hearts:
+## >>> How To Join OSIOM ? :two_hearts:
 
 #####  :one: &nbsp; · &nbsp; `Github` 中已创建 `OSIOM-GROUP` 组织，所有分享的音乐工程都将会在此
 
